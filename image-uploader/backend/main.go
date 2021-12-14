@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"image-uploader-backend/handlers"
+	"image-uploader/handlers"
 	"log"
 	"net/http"
 	"os"
